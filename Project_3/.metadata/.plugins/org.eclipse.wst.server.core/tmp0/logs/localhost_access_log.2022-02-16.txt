@@ -1,0 +1,13 @@
+127.0.0.1 - - [16/Feb/2022:21:26:40 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [16/Feb/2022:21:26:49 +0530] "GET /project_3/ HTTP/1.1" 200 637
+0:0:0:0:0:0:0:1 - - [16/Feb/2022:21:26:58 +0530] "GET /project_3/ HTTP/1.1" 200 637
+0:0:0:0:0:0:0:1 - - [16/Feb/2022:21:26:59 +0530] "GET /project_3/img/banner-gbe43afd47_1920.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Feb/2022:21:26:59 +0530] "GET /project_3/img/banner-gbe43afd47_1920.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Feb/2022:21:26:59 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [16/Feb/2022:21:27:29 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3464
+0:0:0:0:0:0:0:1 - - [16/Feb/2022:21:27:29 +0530] "GET /project_3/img/pexels-suzy-hazelwood-1130980.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Feb/2022:21:27:43 +0530] "GET /project_3/LoginCtl HTTP/1.1" 200 6137
+0:0:0:0:0:0:0:1 - - [16/Feb/2022:21:27:43 +0530] "GET /project_3/img/pexels-olia-danilevich-5088022.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Feb/2022:21:28:27 +0530] "POST /project_3/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [16/Feb/2022:21:28:27 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 9437
+0:0:0:0:0:0:0:1 - - [16/Feb/2022:21:28:44 +0530] "GET /project_3/ctl/MarksheetMeritListCtl HTTP/1.1" 200 11873

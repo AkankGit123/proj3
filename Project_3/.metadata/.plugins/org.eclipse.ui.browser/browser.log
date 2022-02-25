@@ -1,0 +1,1014 @@
+
+Feb 01, 2022 13:10:28.30 NEW SESSION
+Feb 01, 2022 13:10:28.30 [2388:5696:0201/131028.299:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:10:28.30 [2388:788:0201/131028.299:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:10:28.36 [2388:5696:0201/131028.369:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:10:28.45 [2388:5696:0201/131028.452:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:10:33.97 [2388:788:0201/131033.977:ERROR:device_event_log_impl.cc(214)] [13:10:33.977] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 01, 2022 13:10:34.07 [2388:3336:0201/131034.071:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 01, 2022 13:10:34.07 [2388:3336:0201/131034.071:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 01, 2022 13:10:34.07 [2388:3336:0201/131034.071:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 01, 2022 13:10:34.07 [2388:3336:0201/131034.073:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 01, 2022 13:10:36.41 [2388:4760:0201/131036.416:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:10:36.46 [2388:4760:0201/131036.467:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:10:36.52 [2388:4760:0201/131036.525:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:10:36.57 [2388:4760:0201/131036.572:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:10:36.61 [2388:4760:0201/131036.617:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:10:57.51 [2388:4760:0201/131057.512:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:10:57.55 [2388:4760:0201/131057.553:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:10:57.59 [2388:4760:0201/131057.594:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:10:57.63 [2388:4760:0201/131057.635:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:10:57.67 [2388:4760:0201/131057.675:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:10:57.72 [2388:4760:0201/131057.720:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:10:57.76 [2388:4760:0201/131057.762:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:10:57.80 [2388:4760:0201/131057.803:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:13:24.16 [2288:1900:0201/131324.164:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:13:24.16 [2288:2412:0201/131324.166:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:13:24.26 [2288:1900:0201/131324.262:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:13:24.34 [2288:1900:0201/131324.349:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:13:27.26 [2288:8048:0201/131327.265:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 01, 2022 13:13:27.26 [2288:8048:0201/131327.265:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 01, 2022 13:13:27.26 [2288:8048:0201/131327.265:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 01, 2022 13:13:27.26 [2288:8048:0201/131327.268:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 01, 2022 13:13:27.37 [2288:2412:0201/131327.377:ERROR:device_event_log_impl.cc(214)] [13:13:27.377] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 01, 2022 13:13:32.25 [2288:7340:0201/131332.259:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:13:32.32 [2288:7340:0201/131332.327:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:13:32.38 [2288:7340:0201/131332.386:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:13:32.43 [2288:7340:0201/131332.435:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:13:32.48 [2288:7340:0201/131332.485:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:13:53.95 [2288:1900:0201/131353.959:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:13:54.01 [2288:1900:0201/131354.013:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:13:54.06 [2288:1900:0201/131354.065:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:13:54.12 [2288:1900:0201/131354.129:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:13:54.17 [2288:1900:0201/131354.178:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:13:54.22 [2288:1900:0201/131354.221:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:13:54.26 [2288:1900:0201/131354.263:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 01, 2022 13:13:54.30 [2288:1900:0201/131354.306:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+
+Feb 02, 2022 12:40:58.56 NEW SESSION
+Feb 02, 2022 12:40:58.56 [2784:7860:0202/124058.561:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 02, 2022 12:41:00.72 [2784:5168:0202/124100.723:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 02, 2022 12:41:00.76 [2784:5168:0202/124100.769:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 02, 2022 12:41:00.81 [2784:5168:0202/124100.812:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 02, 2022 12:41:06.71 [2784:2364:0202/124106.710:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 02, 2022 12:41:06.75 [2784:2364:0202/124106.757:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 02, 2022 12:41:06.78 [2784:2364:0202/124106.788:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 02, 2022 12:41:06.83 [2784:2364:0202/124106.835:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 02, 2022 12:41:06.86 [2784:2364:0202/124106.866:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 02, 2022 12:41:08.00 [2784:7860:0202/124108.006:ERROR:device_event_log_impl.cc(214)] [12:41:08.001] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 02, 2022 12:41:09.44 [2784:5208:0202/124109.448:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 02, 2022 12:41:09.44 [2784:5208:0202/124109.448:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 02, 2022 12:41:09.44 [2784:5208:0202/124109.448:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 02, 2022 12:41:09.45 [2784:5208:0202/124109.450:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 02, 2022 12:41:27.54 [2784:6064:0202/124127.543:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 02, 2022 12:41:27.58 [2784:6064:0202/124127.587:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 02, 2022 12:41:27.63 [2784:6064:0202/124127.630:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 02, 2022 12:41:27.68 [2784:6064:0202/124127.679:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 02, 2022 12:41:27.72 [2784:6064:0202/124127.724:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 02, 2022 12:41:28.47 [2784:6064:0202/124128.469:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 02, 2022 12:41:28.53 [2784:6064:0202/124128.529:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 02, 2022 12:41:28.59 [2784:6064:0202/124128.592:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 02, 2022 13:44:01.85 [2784:7860:0202/134401.859:ERROR:device_event_log_impl.cc(214)] [13:44:01.859] USB: usb_service_win.cc:261 Failed to get device driver name: Element not found. (0x490)
+Feb 02, 2022 13:49:40.86 [2784:3660:0202/134940.862:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 02, 2022 14:02:31.66 [2784:7860:0202/140231.662:ERROR:device_event_log_impl.cc(214)] [14:02:31.662] USB: usb_service_win.cc:261 Failed to get device driver name: Element not found. (0x490)
+Feb 02, 2022 14:02:31.66 [2784:7860:0202/140231.669:ERROR:device_event_log_impl.cc(214)] [14:02:31.669] USB: usb_service_win.cc:284 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 02, 2022 14:09:30.68 [2784:7860:0202/140930.689:ERROR:device_event_log_impl.cc(214)] [14:09:30.689] USB: usb_service_win.cc:261 Failed to get device driver name: Element not found. (0x490)
+Feb 02, 2022 14:09:30.69 [2784:7860:0202/140930.696:ERROR:device_event_log_impl.cc(214)] [14:09:30.696] USB: usb_service_win.cc:284 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 02, 2022 14:39:33.03 [2784:7860:0202/143933.031:ERROR:device_event_log_impl.cc(214)] [14:39:33.031] USB: usb_service_win.cc:261 Failed to get device driver name: Element not found. (0x490)
+Feb 02, 2022 14:39:33.73 [2784:3660:0202/143933.729:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 02, 2022 16:08:32.33 [2784:7860:0202/160832.334:ERROR:device_event_log_impl.cc(214)] [16:08:32.334] USB: usb_service_win.cc:261 Failed to get device driver name: Element not found. (0x490)
+Feb 02, 2022 16:21:40.49 [2784:7860:0202/162140.494:ERROR:device_event_log_impl.cc(214)] [16:21:40.494] USB: usb_service_win.cc:261 Failed to get device driver name: Element not found. (0x490)
+Feb 02, 2022 17:02:49.61 [2784:7860:0202/170249.614:ERROR:device_event_log_impl.cc(214)] [17:02:49.614] USB: usb_service_win.cc:261 Failed to get device driver name: Element not found. (0x490)
+Feb 02, 2022 17:02:49.61 [2784:7860:0202/170249.618:ERROR:device_event_log_impl.cc(214)] [17:02:49.618] USB: usb_service_win.cc:284 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 02, 2022 17:20:54.90 [2784:7860:0202/172054.900:ERROR:device_event_log_impl.cc(214)] [17:20:54.901] USB: usb_service_win.cc:261 Failed to get device driver name: Element not found. (0x490)
+
+Feb 03, 2022 17:27:32.32 NEW SESSION
+Feb 03, 2022 17:27:32.32 [6808:1684:0203/172732.323:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 03, 2022 17:27:32.53 [6808:7164:0203/172732.324:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 03, 2022 17:27:32.53 [6808:7164:0203/172732.434:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 03, 2022 17:27:32.53 [6808:7164:0203/172732.497:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 03, 2022 17:27:36.79 [6808:1684:0203/172736.796:ERROR:device_event_log_impl.cc(214)] [17:27:36.796] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 03, 2022 17:27:36.88 [6808:1684:0203/172736.799:ERROR:device_event_log_impl.cc(214)] [17:27:36.799] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 03, 2022 17:27:36.94 [6808:1468:0203/172736.942:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 03, 2022 17:27:36.94 [6808:1468:0203/172736.942:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 03, 2022 17:27:36.94 [6808:1468:0203/172736.942:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 03, 2022 17:27:36.94 [6808:1468:0203/172736.944:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 03, 2022 17:27:40.42 [6808:1848:0203/172740.421:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 03, 2022 17:27:40.46 [6808:1848:0203/172740.462:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 03, 2022 17:27:40.50 [6808:1848:0203/172740.504:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 03, 2022 17:27:40.54 [6808:1848:0203/172740.545:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 03, 2022 17:27:40.59 [6808:1848:0203/172740.590:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 03, 2022 17:35:03.79 [6012:5820:0203/173503.792:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 03, 2022 17:35:03.80 [6012:5360:0203/173503.808:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 03, 2022 17:35:03.91 [6012:5360:0203/173503.913:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 03, 2022 17:35:04.00 [6012:5360:0203/173504.007:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 03, 2022 17:35:06.47 [6012:5512:0203/173506.476:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 03, 2022 17:35:06.47 [6012:5512:0203/173506.476:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 03, 2022 17:35:06.47 [6012:5512:0203/173506.476:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 03, 2022 17:35:06.47 [6012:5512:0203/173506.478:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 03, 2022 17:35:06.59 [6012:5820:0203/173506.590:ERROR:device_event_log_impl.cc(214)] [17:35:06.590] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 03, 2022 17:35:06.59 [6012:5820:0203/173506.593:ERROR:device_event_log_impl.cc(214)] [17:35:06.593] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 03, 2022 17:35:11.97 [6012:3404:0203/173511.972:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 03, 2022 17:35:12.01 [6012:3404:0203/173512.014:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 03, 2022 17:35:12.05 [6012:3404:0203/173512.055:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 03, 2022 17:35:12.09 [6012:3404:0203/173512.096:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 03, 2022 17:35:12.13 [6012:3404:0203/173512.137:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 03, 2022 17:35:33.48 [6012:8124:0203/173533.485:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 03, 2022 17:35:33.52 [6012:8124:0203/173533.527:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 03, 2022 17:35:33.56 [6012:8124:0203/173533.568:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 03, 2022 17:35:33.61 [6012:8124:0203/173533.610:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 03, 2022 17:35:33.65 [6012:8124:0203/173533.651:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 03, 2022 17:35:33.69 [6012:8124:0203/173533.693:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 03, 2022 17:35:33.73 [6012:8124:0203/173533.735:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 03, 2022 17:35:33.77 [6012:8124:0203/173533.776:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+
+Feb 11, 2022 18:08:41.97 NEW SESSION
+Feb 11, 2022 18:08:41.97 [1656:2196:0211/180841.971:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:08:42.27 [1656:6964:0211/180841.973:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:08:42.27 [1656:6964:0211/180842.077:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:08:42.27 [1656:6964:0211/180842.150:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:08:48.93 [1656:5324:0211/180848.939:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 11, 2022 18:08:48.94 [1656:5324:0211/180848.939:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 11, 2022 18:08:48.94 [1656:5324:0211/180848.939:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 11, 2022 18:08:48.94 [1656:5324:0211/180848.940:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 11, 2022 18:08:49.04 [1656:2196:0211/180849.048:ERROR:device_event_log_impl.cc(214)] [18:08:49.049] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 11, 2022 18:08:49.53 [1656:4524:0211/180849.534:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 11, 2022 18:08:49.53 [1656:4524:0211/180849.535:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+Feb 11, 2022 18:08:49.53 [1656:4524:0211/180849.535:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+Feb 11, 2022 18:08:49.53 [1656:4524:0211/180849.535:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+Feb 11, 2022 18:08:50.09 [1656:3896:0211/180850.096:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:08:50.13 [1656:3896:0211/180850.139:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:08:50.18 [1656:3896:0211/180850.181:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:08:50.22 [1656:3896:0211/180850.226:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:08:50.27 [1656:3896:0211/180850.275:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:09:10.46 [1656:4524:0211/180910.469:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+Feb 11, 2022 18:09:11.29 [1656:4524:0211/180911.299:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+Feb 11, 2022 18:09:11.67 [1656:6516:0211/180911.673:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:09:11.71 [1656:6516:0211/180911.715:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:09:11.75 [1656:6516:0211/180911.756:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:09:11.79 [1656:6516:0211/180911.798:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:09:11.83 [1656:6516:0211/180911.839:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:09:11.88 [1656:6516:0211/180911.880:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:09:11.92 [1656:6516:0211/180911.921:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:09:11.98 [1656:6516:0211/180911.979:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:09:17.39 [1656:4524:0211/180917.393:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 11, 2022 18:09:18.36 [1656:4524:0211/180918.366:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+Feb 11, 2022 18:09:24.48 [1656:2196:0211/180924.483:ERROR:device_event_log_impl.cc(214)] [18:09:24.482] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 11, 2022 18:09:51.12 [7580:6816:0211/180951.129:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:09:51.13 [7580:4204:0211/180951.130:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:09:51.23 [7580:4204:0211/180951.236:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:09:51.31 [7580:4204:0211/180951.313:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:09:53.19 [7580:6712:0211/180953.196:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 11, 2022 18:09:53.19 [7580:6712:0211/180953.196:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 11, 2022 18:09:53.19 [7580:6712:0211/180953.196:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 11, 2022 18:09:53.19 [7580:6712:0211/180953.198:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 11, 2022 18:09:53.31 [7580:6816:0211/180953.311:ERROR:device_event_log_impl.cc(214)] [18:09:53.311] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 11, 2022 18:09:59.25 [7580:7656:0211/180959.257:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:09:59.29 [7580:7656:0211/180959.299:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:09:59.34 [7580:7656:0211/180959.340:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:09:59.38 [7580:7656:0211/180959.382:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:09:59.42 [7580:7656:0211/180959.423:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:10:20.97 [7580:3088:0211/181020.972:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:10:21.02 [7580:3088:0211/181021.022:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:10:21.06 [7580:3088:0211/181021.067:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:10:21.10 [7580:3088:0211/181021.109:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:10:21.15 [7580:3088:0211/181021.153:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:10:21.19 [7580:3088:0211/181021.194:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:10:21.23 [7580:3088:0211/181021.235:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 11, 2022 18:10:21.27 [7580:3088:0211/181021.277:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+
+Feb 13, 2022 24:41:02.08 NEW SESSION
+Feb 13, 2022 24:41:02.08 [6336:4748:0213/004102.083:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 24:41:02.36 [6336:4192:0213/004102.085:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 24:41:02.36 [6336:4192:0213/004102.178:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 24:41:02.36 [6336:4192:0213/004102.249:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 24:41:05.14 [6336:2480:0213/004105.141:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 13, 2022 24:41:05.14 [6336:2480:0213/004105.141:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 13, 2022 24:41:05.14 [6336:2480:0213/004105.141:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 13, 2022 24:41:05.14 [6336:2480:0213/004105.143:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 13, 2022 24:41:05.26 [6336:4748:0213/004105.260:ERROR:device_event_log_impl.cc(214)] [00:41:05.259] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 13, 2022 24:41:05.28 [6336:5492:0213/004105.287:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2022 24:41:10.17 [6336:6748:0213/004110.178:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 24:41:10.22 [6336:6748:0213/004110.220:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 24:41:10.26 [6336:6748:0213/004110.262:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 24:41:10.30 [6336:6748:0213/004110.304:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 24:41:10.34 [6336:6748:0213/004110.348:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 24:41:31.74 [6336:5996:0213/004131.747:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 24:41:31.80 [6336:5996:0213/004131.802:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 24:41:31.84 [6336:5996:0213/004131.847:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 24:41:31.88 [6336:5996:0213/004131.888:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 24:41:31.93 [6336:5996:0213/004131.930:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 24:41:31.97 [6336:5996:0213/004131.977:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 24:41:32.03 [6336:5996:0213/004132.033:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 24:41:32.07 [6336:5996:0213/004132.075:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 24:41:32.82 [6336:5492:0213/004132.827:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2022 24:41:36.47 [6336:4748:0213/004136.474:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Feb 13, 2022 24:42:13.14 [6336:5492:0213/004213.139:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2022 24:44:03.75 [6336:5492:0213/004403.755:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2022 24:48:55.96 [6336:1144:0213/004855.961:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 24:59:08.59 [6336:4116:0213/005908.594:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+
+Feb 13, 2022 14:52:16.71 NEW SESSION
+Feb 13, 2022 14:52:16.71 [2756:7492:0213/145216.686:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 14:52:17.76 [2756:3384:0213/145216.685:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 14:52:17.76 [2756:7492:0213/145216.758:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 14:52:17.76 [2756:7492:0213/145216.813:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 14:52:20.72 [2756:3384:0213/145220.728:ERROR:device_event_log_impl.cc(214)] [14:52:20.729] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 13, 2022 14:52:20.73 [2756:3384:0213/145220.731:ERROR:device_event_log_impl.cc(214)] [14:52:20.732] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 13, 2022 14:52:22.48 [2756:7340:0213/145222.481:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 13, 2022 14:52:22.48 [2756:7340:0213/145222.481:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 13, 2022 14:52:22.48 [2756:7340:0213/145222.481:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 13, 2022 14:52:22.48 [2756:7340:0213/145222.482:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 13, 2022 14:52:23.32 [2756:6476:0213/145223.329:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2022 14:52:25.62 [2756:4924:0213/145225.627:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 14:52:25.66 [2756:4924:0213/145225.668:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 14:52:25.70 [2756:4924:0213/145225.709:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 14:52:25.75 [2756:4924:0213/145225.751:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 14:52:25.79 [2756:4924:0213/145225.792:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 14:52:44.08 [2756:6476:0213/145244.079:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2022 14:52:45.00 [2756:4924:0213/145245.004:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 14:52:45.04 [2756:4924:0213/145245.046:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 14:52:45.08 [2756:4924:0213/145245.088:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 14:52:45.12 [2756:4924:0213/145245.129:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 14:52:45.17 [2756:4924:0213/145245.170:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 14:52:45.44 [2756:7192:0213/145245.440:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 14:52:45.48 [2756:7192:0213/145245.483:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 14:52:45.52 [2756:7192:0213/145245.525:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 14:53:28.63 [2756:6476:0213/145328.637:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2022 14:55:02.11 [2756:6476:0213/145502.114:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2022 14:58:39.34 [2756:6476:0213/145839.349:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2022 15:04:56.91 [2756:6476:0213/150456.914:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2022 15:14:56.91 [2756:6476:0213/151456.916:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2022 15:24:56.91 [2756:6476:0213/152456.918:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2022 15:34:56.92 [2756:6476:0213/153456.922:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2022 15:41:06.33 [2756:8040:0213/154106.337:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 15:41:33.86 [2756:3872:0213/154133.868:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 15:41:58.04 [2756:7864:0213/154158.040:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 13, 2022 15:43:32.97 [2756:6476:0213/154332.972:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2022 15:43:34.68 [2756:3384:0213/154334.684:ERROR:device_event_log_impl.cc(214)] [15:43:34.685] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 13, 2022 15:44:56.92 [2756:6476:0213/154456.924:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2022 15:45:42.90 [2756:6476:0213/154542.909:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2022 15:47:10.47 [2756:6476:0213/154710.469:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2022 15:50:10.93 [2756:6476:0213/155010.930:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2022 15:56:11.50 [2756:6476:0213/155611.500:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2022 16:06:11.50 [2756:6476:0213/160611.501:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2022 16:16:11.50 [2756:6476:0213/161611.505:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2022 16:26:11.50 [2756:6476:0213/162611.507:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2022 16:36:11.51 [2756:6476:0213/163611.511:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2022 16:46:11.51 [2756:6476:0213/164611.514:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Feb 14, 2022 17:08:59.69 NEW SESSION
+Feb 14, 2022 17:09:00.56 [4368:1064:0214/170858.216:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:09:00.61 [4368:4452:0214/170900.054:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:09:00.61 [4368:4452:0214/170900.095:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:09:00.61 [4368:4452:0214/170900.136:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:09:07.02 [4368:672:0214/170907.028:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:09:07.09 [4368:672:0214/170907.091:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:09:07.14 [4368:672:0214/170907.140:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:09:07.19 [4368:672:0214/170907.194:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:09:07.24 [4368:672:0214/170907.247:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:09:09.10 [4368:1064:0214/170909.109:ERROR:device_event_log_impl.cc(214)] [17:09:09.108] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2022 17:09:26.63 [4368:672:0214/170926.631:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:09:26.67 [4368:672:0214/170926.672:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:09:26.71 [4368:672:0214/170926.713:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:09:26.75 [4368:672:0214/170926.754:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:09:26.79 [4368:672:0214/170926.795:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:09:27.22 [4368:672:0214/170927.228:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:09:27.27 [4368:672:0214/170927.270:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:09:27.31 [4368:672:0214/170927.313:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:09:29.36 [4368:5996:0214/170929.361:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 14, 2022 17:09:29.36 [4368:5996:0214/170929.361:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 14, 2022 17:09:29.36 [4368:5996:0214/170929.361:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 14, 2022 17:09:29.36 [4368:5996:0214/170929.362:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 14, 2022 17:34:40.05 [7284:4440:0214/173440.054:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:34:40.08 [7284:7956:0214/173440.084:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:34:40.16 [7284:7956:0214/173440.161:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:34:40.28 [7284:7956:0214/173440.283:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:34:45.39 [7284:4440:0214/173445.395:ERROR:device_event_log_impl.cc(214)] [17:34:45.396] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2022 17:34:45.89 [7284:8012:0214/173445.891:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 14, 2022 17:34:45.89 [7284:8012:0214/173445.891:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 14, 2022 17:34:45.89 [7284:8012:0214/173445.891:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 14, 2022 17:34:45.89 [7284:8012:0214/173445.892:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 14, 2022 17:34:48.16 [7284:2468:0214/173448.163:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:34:48.20 [7284:2468:0214/173448.205:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:34:48.24 [7284:2468:0214/173448.249:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:34:48.29 [7284:2468:0214/173448.291:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:34:48.33 [7284:2468:0214/173448.333:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:44:58.18 [6376:2028:0214/174458.185:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:44:58.20 [6376:1640:0214/174458.187:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:44:58.27 [6376:1640:0214/174458.276:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:44:58.36 [6376:1640:0214/174458.361:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:45:02.32 [6376:2028:0214/174502.326:ERROR:device_event_log_impl.cc(214)] [17:45:02.326] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2022 17:45:02.33 [6376:5016:0214/174502.330:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 14, 2022 17:45:02.33 [6376:5016:0214/174502.330:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 14, 2022 17:45:02.33 [6376:5016:0214/174502.330:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 14, 2022 17:45:02.33 [6376:5016:0214/174502.332:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 14, 2022 17:45:06.27 [6376:604:0214/174506.278:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:45:06.33 [6376:604:0214/174506.337:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:45:06.40 [6376:604:0214/174506.402:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:45:06.46 [6376:604:0214/174506.460:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:45:06.52 [6376:604:0214/174506.521:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:45:27.97 [6376:604:0214/174527.973:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:45:28.01 [6376:604:0214/174528.019:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:45:28.06 [6376:604:0214/174528.060:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:45:28.10 [6376:604:0214/174528.104:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:45:28.17 [6376:604:0214/174528.172:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:45:28.21 [6376:604:0214/174528.214:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:45:28.25 [6376:604:0214/174528.258:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 14, 2022 17:45:28.30 [6376:604:0214/174528.300:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+
+Feb 16, 2022 21:26:47.25 NEW SESSION
+Feb 16, 2022 21:26:47.25 [5656:5660:0216/212647.248:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 16, 2022 21:26:47.38 [5656:6088:0216/212647.248:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 16, 2022 21:26:47.39 [5656:6088:0216/212647.354:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 16, 2022 21:26:47.43 [5656:6088:0216/212647.429:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 16, 2022 21:26:51.76 [5656:5660:0216/212651.761:ERROR:device_event_log_impl.cc(214)] [21:26:51.761] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 16, 2022 21:26:51.81 [5656:5288:0216/212651.817:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 16, 2022 21:26:51.81 [5656:5288:0216/212651.818:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 16, 2022 21:26:51.82 [5656:5288:0216/212651.818:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 16, 2022 21:26:51.82 [5656:5288:0216/212651.821:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 16, 2022 21:26:53.29 [5656:5920:0216/212653.294:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 16, 2022 21:26:55.37 [5656:6060:0216/212655.370:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 16, 2022 21:26:55.42 [5656:6060:0216/212655.423:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 16, 2022 21:26:55.46 [5656:6060:0216/212655.465:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 16, 2022 21:26:55.55 [5656:6060:0216/212655.552:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 16, 2022 21:26:55.60 [5656:6060:0216/212655.606:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 16, 2022 21:27:16.59 [5656:6060:0216/212716.594:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 16, 2022 21:27:16.66 [5656:6060:0216/212716.665:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 16, 2022 21:27:16.74 [5656:6060:0216/212716.740:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 16, 2022 21:27:16.97 [5656:6060:0216/212716.976:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 16, 2022 21:27:17.05 [5656:6060:0216/212717.053:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 16, 2022 21:27:17.13 [5656:6060:0216/212717.133:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 16, 2022 21:27:17.21 [5656:6060:0216/212717.209:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 16, 2022 21:27:17.28 [5656:6060:0216/212717.285:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 16, 2022 21:27:18.22 [5656:5920:0216/212718.228:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 17, 2022 12:26:53.78 [5656:5920:0217/122653.780:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 17, 2022 12:26:57.35 [5656:2144:0217/122657.349:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 17, 2022 12:26:57.83 [5656:5920:0217/122657.834:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 17, 2022 12:27:02.84 [5656:5920:0217/122702.848:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 17, 2022 12:27:02.88 [5656:2144:0217/122702.881:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 17, 2022 12:27:03.19 [5656:5660:0217/122703.198:ERROR:device_event_log_impl.cc(214)] [12:27:03.198] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 17, 2022 14:01:31.49 [2088:4432:0217/140131.497:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 17, 2022 14:01:31.52 [2088:6112:0217/140131.498:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 17, 2022 14:01:31.58 [2088:6112:0217/140131.582:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 17, 2022 14:01:31.65 [2088:6112:0217/140131.658:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 17, 2022 14:01:34.90 [2088:4432:0217/140134.907:ERROR:device_event_log_impl.cc(214)] [14:01:34.907] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 17, 2022 14:01:35.00 [2088:5600:0217/140135.001:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 17, 2022 14:01:35.00 [2088:5600:0217/140135.002:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 17, 2022 14:01:35.00 [2088:5600:0217/140135.003:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 17, 2022 14:01:35.01 [2088:5600:0217/140135.010:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 17, 2022 14:01:39.68 [2088:4416:0217/140139.684:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 17, 2022 14:01:39.77 [2088:4416:0217/140139.769:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 17, 2022 14:01:39.86 [2088:4416:0217/140139.865:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 17, 2022 14:01:39.92 [2088:4416:0217/140139.925:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 17, 2022 14:01:39.96 [2088:4416:0217/140139.969:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 17, 2022 14:02:00.89 [2088:4588:0217/140200.895:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 17, 2022 14:02:00.94 [2088:4588:0217/140200.947:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 17, 2022 14:02:00.99 [2088:4588:0217/140200.996:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 17, 2022 14:02:02.49 [2088:2724:0217/140202.497:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 17, 2022 14:02:02.53 [2088:2724:0217/140202.539:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 17, 2022 14:02:02.58 [2088:2724:0217/140202.581:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 17, 2022 14:02:02.62 [2088:2724:0217/140202.623:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 17, 2022 14:02:02.66 [2088:2724:0217/140202.667:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 17, 2022 14:42:51.49 [2088:4312:0217/144251.490:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+Feb 17, 2022 14:49:07.08 [2088:4312:0217/144907.086:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+Feb 17, 2022 14:49:30.86 [2088:4312:0217/144930.865:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 17, 2022 14:53:25.80 [2088:4312:0217/145325.803:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 17, 2022 14:58:59.24 [2088:4312:0217/145859.243:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+Feb 17, 2022 15:01:17.73 [2088:4312:0217/150117.729:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+Feb 17, 2022 15:04:41.99 [2088:4312:0217/150441.996:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 17, 2022 15:06:11.71 [2088:4312:0217/150611.716:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 17, 2022 15:06:17.33 [2088:4432:0217/150617.333:ERROR:device_event_log_impl.cc(214)] [15:06:17.333] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 17, 2022 15:06:17.42 [2088:4312:0217/150617.424:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 17, 2022 15:06:35.33 [2088:4312:0217/150635.336:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 17, 2022 15:06:35.34 [2088:4312:0217/150635.341:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 17, 2022 15:07:26.62 [2088:4312:0217/150726.626:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 17, 2022 15:08:25.87 [2088:4312:0217/150825.870:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 17, 2022 15:14:05.58 [2088:4312:0217/151405.580:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 17, 2022 15:17:34.64 [2088:4312:0217/151734.640:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 17, 2022 15:17:47.50 [2088:4312:0217/151747.500:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 17, 2022 15:18:56.53 [2088:4312:0217/151856.533:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 17, 2022 15:19:20.22 [2088:4312:0217/151920.221:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 17, 2022 15:19:21.72 [2088:4312:0217/151921.727:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 17, 2022 15:22:32.51 [2088:4312:0217/152232.514:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 17, 2022 15:24:04.39 [2088:4312:0217/152404.395:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+Feb 17, 2022 15:24:35.40 [2088:4312:0217/152435.406:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+Feb 17, 2022 15:26:34.55 [2088:4312:0217/152634.551:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 17, 2022 15:27:14.59 [2088:4312:0217/152714.598:ERROR:connection_handler_impl.cc(471)] Timed out waiting for GCM Protocol buffer.
+Feb 17, 2022 15:29:12.02 [2088:4312:0217/152912.022:ERROR:connection_handler_impl.cc(471)] Timed out waiting for GCM Protocol buffer.
+Feb 17, 2022 15:29:42.65 [2088:4312:0217/152942.653:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 17, 2022 15:30:28.73 [2088:4312:0217/153028.734:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 17, 2022 15:31:04.25 [2088:4312:0217/153104.255:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+Feb 17, 2022 15:42:45.81 [2088:4312:0217/154245.818:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 17, 2022 15:53:38.42 [2088:4312:0217/155338.428:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 17, 2022 15:54:17.35 [2088:4312:0217/155417.358:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+Feb 17, 2022 15:54:50.73 [2088:4312:0217/155450.739:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+Feb 17, 2022 18:11:15.83 [2088:4312:0217/181115.836:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+Feb 17, 2022 18:16:20.85 [2088:4312:0217/181620.854:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+
+Feb 18, 2022 18:16:16.04 NEW SESSION
+Feb 18, 2022 18:16:16.04 [5104:8004:0218/181616.041:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 18, 2022 18:16:17.86 [5104:5128:0218/181617.865:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 18, 2022 18:16:17.91 [5104:5128:0218/181617.915:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 18, 2022 18:16:17.95 [5104:5128:0218/181617.957:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 18, 2022 18:16:23.01 [5104:8004:0218/181623.011:ERROR:device_event_log_impl.cc(214)] [18:16:23.011] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 18, 2022 18:16:25.12 [5104:5128:0218/181625.124:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 18, 2022 18:16:25.16 [5104:5128:0218/181625.166:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 18, 2022 18:16:25.21 [5104:5128:0218/181625.215:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 18, 2022 18:16:25.25 [5104:5128:0218/181625.257:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 18, 2022 18:16:25.29 [5104:5128:0218/181625.298:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 18, 2022 18:16:27.95 [5104:6756:0218/181627.953:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 18, 2022 18:16:27.95 [5104:6756:0218/181627.953:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 18, 2022 18:16:27.95 [5104:6756:0218/181627.953:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 18, 2022 18:16:27.95 [5104:6756:0218/181627.955:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 18, 2022 18:16:41.56 [5104:5128:0218/181641.564:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 18, 2022 18:16:41.62 [5104:5128:0218/181641.621:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 18, 2022 18:16:41.66 [5104:5128:0218/181641.666:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 18, 2022 18:16:41.68 [5104:2804:0218/181641.689:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+Feb 18, 2022 18:16:41.69 [5104:2804:0218/181641.690:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+Feb 18, 2022 18:16:41.69 [5104:2804:0218/181641.691:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+Feb 18, 2022 18:16:41.69 [5104:2804:0218/181641.691:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 18, 2022 18:16:41.72 [5104:5128:0218/181641.724:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 18, 2022 18:16:41.77 [5104:5128:0218/181641.771:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 18, 2022 18:16:44.00 [5104:5128:0218/181644.008:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 18, 2022 18:16:44.05 [5104:5128:0218/181644.053:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 18, 2022 18:16:44.09 [5104:5128:0218/181644.099:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 18, 2022 18:17:31.04 [5104:2804:0218/181731.046:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+Feb 18, 2022 18:17:31.04 [5104:2804:0218/181731.046:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+Feb 18, 2022 18:18:09.32 [5104:2804:0218/181809.328:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+Feb 18, 2022 18:18:47.76 [5104:2804:0218/181847.769:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+Feb 18, 2022 18:18:47.77 [5104:2804:0218/181847.769:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+Feb 18, 2022 18:18:53.77 [5104:2804:0218/181853.775:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+Feb 18, 2022 18:19:42.32 [5104:6356:0218/181942.321:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Feb 19, 2022 14:17:16.29 NEW SESSION
+Feb 19, 2022 14:17:16.29 [6652:7420:0219/141716.187:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 19, 2022 14:17:17.65 [6652:6936:0219/141717.655:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 19, 2022 14:17:17.69 [6652:6936:0219/141717.698:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 19, 2022 14:17:17.74 [6652:6936:0219/141717.742:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 19, 2022 14:17:24.48 [6652:6760:0219/141724.481:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 19, 2022 14:17:24.54 [6652:6760:0219/141724.544:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 19, 2022 14:17:24.59 [6652:6760:0219/141724.598:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 19, 2022 14:17:24.67 [6652:6760:0219/141724.670:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 19, 2022 14:17:24.72 [6652:6760:0219/141724.727:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 19, 2022 14:17:25.10 [6652:7420:0219/141725.100:ERROR:device_event_log_impl.cc(214)] [14:17:25.100] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 19, 2022 14:17:25.15 [6652:5484:0219/141725.150:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 19, 2022 14:17:25.15 [6652:5484:0219/141725.150:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 19, 2022 14:17:25.15 [6652:5484:0219/141725.150:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 19, 2022 14:17:25.15 [6652:5484:0219/141725.151:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 19, 2022 14:17:45.62 [6652:4104:0219/141745.623:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 19, 2022 14:17:45.67 [6652:4104:0219/141745.670:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 19, 2022 14:17:45.71 [6652:4104:0219/141745.714:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 19, 2022 14:17:45.75 [6652:4104:0219/141745.757:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 19, 2022 14:17:45.80 [6652:4104:0219/141745.800:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 19, 2022 14:17:45.95 [6652:4104:0219/141745.958:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 19, 2022 14:17:46.06 [6652:4104:0219/141746.067:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 19, 2022 14:17:46.14 [6652:4104:0219/141746.147:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 19, 2022 14:25:31.91 [6652:7420:0219/142531.909:ERROR:device_event_log_impl.cc(214)] [14:25:31.909] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 19, 2022 14:25:31.91 [6652:7420:0219/142531.912:ERROR:device_event_log_impl.cc(214)] [14:25:31.912] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 19, 2022 14:37:29.34 [6652:2544:0219/143729.348:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 19, 2022 14:37:36.67 [6652:7420:0219/143736.674:ERROR:device_event_log_impl.cc(214)] [14:37:36.674] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 19, 2022 14:37:54.44 [6652:7064:0219/143754.444:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 19, 2022 14:39:23.54 [6652:7420:0219/143923.540:ERROR:device_event_log_impl.cc(214)] [14:39:23.540] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 19, 2022 14:39:23.54 [6652:7420:0219/143923.543:ERROR:device_event_log_impl.cc(214)] [14:39:23.543] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 19, 2022 14:47:24.04 [6652:7420:0219/144724.042:ERROR:device_event_log_impl.cc(214)] [14:47:24.042] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 19, 2022 14:47:24.05 [6652:7420:0219/144724.051:ERROR:device_event_log_impl.cc(214)] [14:47:24.051] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 19, 2022 15:00:46.86 [6652:7420:0219/150046.866:ERROR:device_event_log_impl.cc(214)] [15:00:46.866] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 19, 2022 15:00:46.87 [6652:7420:0219/150046.870:ERROR:device_event_log_impl.cc(214)] [15:00:46.869] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 19, 2022 15:10:58.34 [6652:7420:0219/151058.347:ERROR:device_event_log_impl.cc(214)] [15:10:58.347] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 19, 2022 15:10:58.35 [6652:7420:0219/151058.352:ERROR:device_event_log_impl.cc(214)] [15:10:58.352] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 19, 2022 15:12:25.12 [6652:7420:0219/151225.123:ERROR:device_event_log_impl.cc(214)] [15:12:25.122] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 19, 2022 15:12:25.12 [6652:7420:0219/151225.127:ERROR:device_event_log_impl.cc(214)] [15:12:25.127] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 19, 2022 15:12:39.48 [6652:7420:0219/151239.481:ERROR:device_event_log_impl.cc(214)] [15:12:39.480] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 19, 2022 15:12:39.48 [6652:7420:0219/151239.484:ERROR:device_event_log_impl.cc(214)] [15:12:39.484] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 19, 2022 15:13:34.34 [6652:7420:0219/151334.345:ERROR:device_event_log_impl.cc(214)] [15:13:34.346] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 19, 2022 15:13:34.35 [6652:7420:0219/151334.349:ERROR:device_event_log_impl.cc(214)] [15:13:34.350] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 19, 2022 15:13:55.97 [6652:7420:0219/151355.978:ERROR:device_event_log_impl.cc(214)] [15:13:55.978] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 19, 2022 15:13:55.98 [6652:7420:0219/151355.982:ERROR:device_event_log_impl.cc(214)] [15:13:55.982] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 19, 2022 15:14:35.55 [6652:7420:0219/151435.557:ERROR:device_event_log_impl.cc(214)] [15:14:35.557] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 19, 2022 15:14:35.56 [6652:7420:0219/151435.564:ERROR:device_event_log_impl.cc(214)] [15:14:35.564] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 19, 2022 15:16:27.62 [6652:7420:0219/151627.624:ERROR:device_event_log_impl.cc(214)] [15:16:27.624] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 19, 2022 15:16:27.63 [6652:7420:0219/151627.632:ERROR:device_event_log_impl.cc(214)] [15:16:27.631] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 19, 2022 15:19:04.95 [6652:7420:0219/151904.958:ERROR:device_event_log_impl.cc(214)] [15:19:04.958] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 19, 2022 15:19:04.96 [6652:7420:0219/151904.962:ERROR:device_event_log_impl.cc(214)] [15:19:04.962] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 19, 2022 15:27:56.36 [6652:7420:0219/152756.363:ERROR:device_event_log_impl.cc(214)] [15:27:56.362] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 19, 2022 15:27:56.37 [6652:7420:0219/152756.370:ERROR:device_event_log_impl.cc(214)] [15:27:56.369] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 19, 2022 15:29:22.64 [6652:2544:0219/152922.648:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 19, 2022 15:29:24.58 [6652:7420:0219/152924.586:ERROR:device_event_log_impl.cc(214)] [15:29:24.586] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 19, 2022 15:29:46.70 [6652:2544:0219/152946.709:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 19, 2022 15:30:33.91 [6652:2544:0219/153033.913:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 19, 2022 15:32:26.87 [6652:2544:0219/153226.874:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 19, 2022 15:35:01.49 [6652:2544:0219/153501.489:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+
+Feb 20, 2022 09:48:09.48 NEW SESSION
+Feb 20, 2022 09:48:09.48 [6648:2792:0220/094809.418:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 09:48:10.17 [6648:4000:0220/094809.425:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 09:48:10.17 [6648:4000:0220/094809.530:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 09:48:10.17 [6648:4000:0220/094809.576:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 09:48:14.55 [6648:2792:0220/094814.549:ERROR:device_event_log_impl.cc(214)] [09:48:14.550] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2022 09:48:16.06 [6648:5028:0220/094816.063:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 20, 2022 09:48:16.06 [6648:5028:0220/094816.063:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 20, 2022 09:48:16.06 [6648:5028:0220/094816.063:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 20, 2022 09:48:16.06 [6648:5028:0220/094816.064:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 20, 2022 09:48:18.34 [6648:4712:0220/094818.343:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 09:48:18.38 [6648:4712:0220/094818.385:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 09:48:18.42 [6648:4712:0220/094818.426:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 09:48:18.46 [6648:4712:0220/094818.467:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 09:48:18.50 [6648:4712:0220/094818.508:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 09:48:37.83 [6648:6760:0220/094837.831:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 09:48:37.88 [6648:6760:0220/094837.884:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 09:48:37.94 [6648:6760:0220/094837.946:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 09:48:37.99 [6648:6760:0220/094837.999:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 09:48:38.04 [6648:6760:0220/094838.043:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 09:48:38.42 [6648:6760:0220/094838.421:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 09:48:38.46 [6648:6760:0220/094838.464:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 09:48:38.50 [6648:6760:0220/094838.506:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 09:52:30.78 [6648:4276:0220/095230.757:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 10:06:56.05 [6648:3908:0220/100656.034:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 10:19:35.74 [6648:3104:0220/101935.741:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+Feb 20, 2022 10:20:19.52 [6648:3104:0220/102019.528:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+Feb 20, 2022 10:21:35.66 [6648:3104:0220/102135.660:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+Feb 20, 2022 10:23:39.47 [6648:3104:0220/102339.475:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+Feb 20, 2022 10:27:25.19 [6648:3104:0220/102725.191:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -7
+Feb 20, 2022 10:34:07.22 [6648:3104:0220/103407.223:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+Feb 20, 2022 10:37:55.02 [6648:3104:0220/103755.029:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 20, 2022 10:54:12.44 [6648:3104:0220/105412.439:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 20, 2022 10:54:41.80 [6648:3104:0220/105441.803:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 20, 2022 10:55:24.75 [6648:3104:0220/105524.759:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 20, 2022 10:57:12.08 [6648:3104:0220/105712.081:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 20, 2022 11:00:18.46 [6648:3104:0220/110018.464:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 20, 2022 11:01:26.11 [6648:2792:0220/110126.118:ERROR:device_event_log_impl.cc(214)] [11:01:26.117] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 20, 2022 11:01:45.05 [6648:3104:0220/110145.057:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+Feb 20, 2022 11:05:42.85 [6648:3104:0220/110542.858:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 20, 2022 11:06:29.15 [6648:3104:0220/110629.156:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -7
+Feb 20, 2022 11:07:40.31 [6648:3104:0220/110740.311:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 20, 2022 11:11:58.80 [6648:3104:0220/111158.805:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 20, 2022 11:12:44.75 [6648:3104:0220/111244.754:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 20, 2022 11:12:56.26 [6648:3104:0220/111256.260:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 20, 2022 11:15:42.56 [6648:3104:0220/111542.565:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 20, 2022 11:15:55.23 [6648:3104:0220/111555.237:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 20, 2022 11:24:38.68 [6648:3104:0220/112438.687:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 20, 2022 11:25:02.44 [6648:3104:0220/112502.449:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 20, 2022 11:26:23.25 [6648:3104:0220/112623.255:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -7
+
+Feb 20, 2022 13:09:47.35 NEW SESSION
+Feb 20, 2022 13:09:47.35 [5016:4392:0220/130947.357:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:09:47.72 [5016:5356:0220/130947.357:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:09:47.72 [5016:4392:0220/130947.440:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:09:47.72 [5016:4392:0220/130947.471:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:09:53.71 [5016:4948:0220/130953.716:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 20, 2022 13:09:53.71 [5016:4948:0220/130953.716:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 20, 2022 13:09:53.71 [5016:4948:0220/130953.716:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 20, 2022 13:09:53.73 [5016:4948:0220/130953.732:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 20, 2022 13:09:53.82 [5016:5356:0220/130953.824:ERROR:device_event_log_impl.cc(214)] [13:09:53.818] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2022 13:09:55.67 [5016:3856:0220/130955.679:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:09:55.71 [5016:3856:0220/130955.710:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:09:55.75 [5016:3856:0220/130955.757:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:09:55.80 [5016:3856:0220/130955.804:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:09:55.84 [5016:3856:0220/130955.848:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:10:17.15 [5016:2276:0220/131017.154:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:10:17.19 [5016:2276:0220/131017.196:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:10:17.23 [5016:2276:0220/131017.238:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:10:17.28 [5016:2276:0220/131017.280:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:10:17.32 [5016:2276:0220/131017.322:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:10:17.36 [5016:2276:0220/131017.364:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:10:17.40 [5016:2276:0220/131017.406:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:10:17.44 [5016:2276:0220/131017.447:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:14:22.58 [5016:3856:0220/131422.586:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:14:25.78 [5016:3856:0220/131425.783:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:14:37.48 [5016:1132:0220/131437.480:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:15:36.85 [5016:3856:0220/131536.851:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:15:49.78 [5016:4244:0220/131549.785:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:15:53.65 [5016:3856:0220/131553.655:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:16:08.05 [5016:5356:0220/131608.052:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:16:08.09 [5016:5356:0220/131608.093:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:16:08.13 [5016:5356:0220/131608.137:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:16:08.17 [5016:5356:0220/131608.178:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:16:08.21 [5016:5356:0220/131608.219:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:16:08.26 [5016:5356:0220/131608.260:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:16:08.30 [5016:5356:0220/131608.301:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 13:27:55.04 [5016:5356:0220/132755.044:ERROR:device_event_log_impl.cc(214)] [13:27:55.044] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 20, 2022 13:27:55.06 [5016:5356:0220/132755.044:ERROR:device_event_log_impl.cc(214)] [13:27:55.047] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 20, 2022 14:29:21.72 [8156:6628:0220/142921.674:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 14:29:22.94 [8156:7060:0220/142922.942:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 14:29:22.98 [8156:7060:0220/142922.984:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 14:29:23.02 [8156:7060:0220/142923.025:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 14:29:29.92 [8156:8024:0220/142929.927:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 14:29:29.97 [8156:8024:0220/142929.973:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 14:29:30.02 [8156:8024:0220/142930.020:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 14:29:30.06 [8156:8024:0220/142930.065:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 14:29:30.10 [8156:8024:0220/142930.107:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 14:29:31.96 [8156:6628:0220/142931.967:ERROR:device_event_log_impl.cc(214)] [14:29:31.960] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2022 14:29:50.91 [8156:8024:0220/142950.919:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 14:29:50.94 [8156:8024:0220/142950.949:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 14:29:50.99 [8156:8024:0220/142950.995:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 14:29:51.04 [8156:8024:0220/142951.042:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 14:29:51.07 [8156:8024:0220/142951.074:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 14:29:51.12 [8156:8024:0220/142951.120:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 14:29:51.16 [8156:8024:0220/142951.167:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 14:29:51.21 [8156:8024:0220/142951.199:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 20, 2022 14:29:54.91 [8156:5748:0220/142954.912:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 20, 2022 14:29:54.91 [8156:5748:0220/142954.912:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 20, 2022 14:29:54.91 [8156:5748:0220/142954.912:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 20, 2022 14:29:54.91 [8156:5748:0220/142954.912:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+
+Feb 21, 2022 09:18:33.76 NEW SESSION
+Feb 21, 2022 09:18:33.76 [1924:7952:0221/091833.769:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 09:18:34.48 [1924:2528:0221/091833.769:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 09:18:34.48 [1924:7952:0221/091833.830:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 09:18:34.48 [1924:7952:0221/091833.861:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 09:18:42.15 [1924:4524:0221/091842.150:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 09:18:42.19 [1924:4524:0221/091842.197:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 09:18:42.23 [1924:4524:0221/091842.235:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 09:18:42.27 [1924:4524:0221/091842.275:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 09:18:42.28 [1924:2416:0221/091842.283:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 21, 2022 09:18:42.28 [1924:2416:0221/091842.283:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 21, 2022 09:18:42.28 [1924:2416:0221/091842.283:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 21, 2022 09:18:42.28 [1924:2416:0221/091842.283:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 21, 2022 09:18:42.32 [1924:4524:0221/091842.323:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 09:18:42.40 [1924:2528:0221/091842.392:ERROR:device_event_log_impl.cc(214)] [09:18:42.394] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2022 09:19:03.63 [1924:3288:0221/091903.636:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 09:19:03.70 [1924:3288:0221/091903.708:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 09:19:03.78 [1924:3288:0221/091903.780:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 09:19:03.86 [1924:3288:0221/091903.860:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 09:19:03.93 [1924:3288:0221/091903.932:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 09:19:04.00 [1924:3288:0221/091904.004:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 09:19:04.07 [1924:3288:0221/091904.076:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 09:19:04.15 [1924:3288:0221/091904.156:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+
+Feb 21, 2022 14:14:26.29 NEW SESSION
+Feb 21, 2022 14:14:26.29 [4244:1148:0221/141426.291:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 14:14:26.37 [4244:5228:0221/141426.301:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 14:14:26.43 [4244:5228:0221/141426.430:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 14:14:26.49 [4244:5228:0221/141426.499:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 14:14:29.94 [4244:3680:0221/141429.947:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 21, 2022 14:14:29.94 [4244:3680:0221/141429.947:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 21, 2022 14:14:29.94 [4244:3680:0221/141429.947:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 21, 2022 14:14:29.94 [4244:3680:0221/141429.949:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 21, 2022 14:14:30.06 [4244:1148:0221/141430.061:ERROR:device_event_log_impl.cc(214)] [14:14:30.062] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2022 14:14:30.06 [4244:1148:0221/141430.065:ERROR:device_event_log_impl.cc(214)] [14:14:30.065] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2022 14:14:34.42 [4244:428:0221/141434.424:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 14:14:34.51 [4244:428:0221/141434.510:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 14:14:34.59 [4244:428:0221/141434.599:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 14:14:34.68 [4244:428:0221/141434.685:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 14:14:34.77 [4244:428:0221/141434.773:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 14:14:54.73 [4244:7912:0221/141454.738:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 21, 2022 14:14:56.18 [4244:7912:0221/141456.185:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 14:14:56.22 [4244:7912:0221/141456.229:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 14:14:56.27 [4244:7912:0221/141456.272:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 14:14:56.31 [4244:7912:0221/141456.315:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 14:14:56.35 [4244:7912:0221/141456.358:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 14:14:56.40 [4244:7912:0221/141456.400:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 14:14:56.44 [4244:7912:0221/141456.443:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 14:14:56.48 [4244:7912:0221/141456.485:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 21, 2022 14:15:36.00 [4244:768:0221/141536.005:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+Feb 21, 2022 15:31:16.62 [4244:1148:0221/153116.623:ERROR:device_event_log_impl.cc(214)] [15:31:16.623] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 21, 2022 15:39:16.98 [4244:1148:0221/153916.984:ERROR:device_event_log_impl.cc(214)] [15:39:16.985] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 21, 2022 15:39:16.98 [4244:1148:0221/153916.986:ERROR:device_event_log_impl.cc(214)] [15:39:16.987] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 21, 2022 16:19:37.41 [4244:1148:0221/161937.413:ERROR:device_event_log_impl.cc(214)] [16:19:37.414] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 21, 2022 16:19:37.42 [4244:1148:0221/161937.420:ERROR:device_event_log_impl.cc(214)] [16:19:37.421] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 21, 2022 16:20:40.16 [4244:1148:0221/162040.166:ERROR:device_event_log_impl.cc(214)] [16:20:40.166] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 21, 2022 16:20:40.17 [4244:1148:0221/162040.170:ERROR:device_event_log_impl.cc(214)] [16:20:40.170] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 21, 2022 16:26:54.90 [4244:1148:0221/162654.903:ERROR:device_event_log_impl.cc(214)] [16:26:54.903] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 21, 2022 16:26:54.90 [4244:1148:0221/162654.906:ERROR:device_event_log_impl.cc(214)] [16:26:54.906] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 21, 2022 16:27:36.98 [4244:768:0221/162736.982:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 21, 2022 16:28:00.37 [4244:768:0221/162800.371:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 21, 2022 16:28:33.74 [4244:1148:0221/162833.747:ERROR:device_event_log_impl.cc(214)] [16:28:33.747] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 21, 2022 16:28:48.89 [4244:768:0221/162848.894:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 21, 2022 16:30:09.32 [4244:768:0221/163009.329:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 21, 2022 16:33:07.96 [4244:768:0221/163307.966:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 21, 2022 16:38:48.41 [4244:768:0221/163848.417:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 21, 2022 16:48:48.42 [4244:768:0221/164848.420:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 21, 2022 16:58:48.42 [4244:768:0221/165848.422:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 21, 2022 17:08:48.42 [4244:768:0221/170848.425:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 21, 2022 17:18:48.42 [4244:768:0221/171848.428:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 21, 2022 17:19:17.66 [4244:428:0221/171917.666:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 21, 2022 17:20:02.67 [4244:5708:0221/172002.670:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 21, 2022 17:21:10.17 [4244:5708:0221/172110.175:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 21, 2022 17:23:58.93 [4244:428:0221/172358.931:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 21, 2022 17:28:48.43 [4244:768:0221/172848.431:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 21, 2022 17:31:00.81 [4244:6168:0221/173100.810:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 21, 2022 17:38:48.43 [4244:768:0221/173848.432:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 21, 2022 17:41:00.81 [4244:7764:0221/174100.815:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 21, 2022 17:48:48.43 [4244:768:0221/174848.436:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 21, 2022 17:51:00.82 [4244:5708:0221/175100.820:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 21, 2022 17:58:48.43 [4244:768:0221/175848.439:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Feb 22, 2022 13:16:24.53 NEW SESSION
+Feb 22, 2022 13:16:24.53 [7956:6184:0222/131624.531:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 13:16:24.58 [7956:6292:0222/131624.535:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 13:16:24.64 [7956:6292:0222/131624.643:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 13:16:24.80 [7956:6292:0222/131624.803:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 13:16:27.66 [7956:8420:0222/131627.659:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 22, 2022 13:16:27.66 [7956:8420:0222/131627.659:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 22, 2022 13:16:27.66 [7956:8420:0222/131627.660:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 22, 2022 13:16:27.66 [7956:8420:0222/131627.662:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 22, 2022 13:16:27.77 [7956:6184:0222/131627.777:ERROR:device_event_log_impl.cc(214)] [13:16:27.777] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2022 13:16:27.78 [7956:6184:0222/131627.781:ERROR:device_event_log_impl.cc(214)] [13:16:27.781] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2022 13:16:32.63 [7956:968:0222/131632.631:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 13:16:32.67 [7956:968:0222/131632.672:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 13:16:32.71 [7956:968:0222/131632.714:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 13:16:32.75 [7956:968:0222/131632.755:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 13:16:32.79 [7956:968:0222/131632.799:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 13:16:54.37 [7956:4604:0222/131654.369:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 13:16:54.42 [7956:4604:0222/131654.424:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 13:16:54.50 [7956:4604:0222/131654.500:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 13:16:54.54 [7956:4604:0222/131654.545:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 13:16:54.59 [7956:4604:0222/131654.592:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 13:16:54.64 [7956:4604:0222/131654.648:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 13:16:54.69 [7956:4604:0222/131654.698:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 13:16:54.75 [7956:4604:0222/131654.750:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 13:17:02.70 [7956:1932:0222/131702.700:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+Feb 22, 2022 13:17:48.24 [7956:1932:0222/131748.245:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+Feb 22, 2022 13:18:51.10 [7956:1932:0222/131851.100:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+Feb 22, 2022 13:21:50.03 [7956:1932:0222/132150.037:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -7
+Feb 22, 2022 13:25:49.00 [7956:1932:0222/132549.002:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -100
+Feb 22, 2022 13:28:07.72 [7956:7820:0222/132807.722:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 22, 2022 13:30:25.25 [7956:7820:0222/133025.258:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 22, 2022 13:35:53.57 [7956:7820:0222/133553.575:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 22, 2022 13:43:28.12 [7956:7820:0222/134328.128:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 22, 2022 13:53:47.14 [7956:7820:0222/135347.141:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 22, 2022 14:25:38.95 [3868:11144:0222/142538.819:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:25:39.12 [3868:2836:0222/142538.819:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:25:39.12 [3868:2836:0222/142538.946:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:25:39.12 [3868:2836:0222/142538.987:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:25:48.84 [3868:10236:0222/142548.849:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:25:49.18 [3868:10236:0222/142548.890:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:25:49.18 [3868:10236:0222/142548.931:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:25:49.18 [3868:10236:0222/142548.972:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:25:49.18 [3868:10236:0222/142549.013:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:25:57.10 [3868:11144:0222/142557.109:ERROR:device_event_log_impl.cc(214)] [14:25:57.109] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2022 14:25:57.31 [3868:11144:0222/142557.317:ERROR:device_event_log_impl.cc(214)] [14:25:57.317] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2022 14:26:06.22 [3868:10236:0222/142606.221:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:26:06.26 [3868:10236:0222/142606.262:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:26:06.30 [3868:10236:0222/142606.304:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:26:06.34 [3868:10236:0222/142606.345:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:26:06.38 [3868:10236:0222/142606.388:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:26:06.44 [3868:10236:0222/142606.443:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:26:06.48 [3868:10236:0222/142606.485:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:26:06.52 [3868:10236:0222/142606.526:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:26:12.75 [3868:6540:0222/142612.755:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 22, 2022 14:26:29.55 [3868:6540:0222/142629.557:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 22, 2022 14:26:29.55 [3868:6540:0222/142629.557:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 22, 2022 14:26:29.55 [3868:6540:0222/142629.559:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+
+Feb 22, 2022 14:39:26.62 NEW SESSION
+Feb 22, 2022 14:39:26.62 [11528:11356:0222/143926.624:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:39:27.51 [11528:7400:0222/143927.389:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:39:27.51 [11528:7400:0222/143927.433:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:39:27.51 [11528:7400:0222/143927.478:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:39:34.74 [11528:7136:0222/143934.746:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:39:34.78 [11528:7136:0222/143934.789:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:39:34.83 [11528:7136:0222/143934.830:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:39:34.87 [11528:7136:0222/143934.878:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:39:34.92 [11528:7136:0222/143934.920:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:39:39.31 [11528:11356:0222/143939.319:ERROR:device_event_log_impl.cc(214)] [14:39:39.319] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2022 14:39:39.32 [11528:11356:0222/143939.322:ERROR:device_event_log_impl.cc(214)] [14:39:39.322] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2022 14:39:39.89 [11528:7800:0222/143939.892:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 22, 2022 14:39:39.89 [11528:7800:0222/143939.892:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 22, 2022 14:39:39.89 [11528:7800:0222/143939.892:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 22, 2022 14:39:39.89 [11528:7800:0222/143939.893:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 22, 2022 14:39:56.51 [11528:3988:0222/143956.518:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:39:56.55 [11528:3988:0222/143956.559:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:39:56.60 [11528:3988:0222/143956.601:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:39:56.64 [11528:3988:0222/143956.642:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:39:56.68 [11528:3988:0222/143956.683:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:39:56.72 [11528:3988:0222/143956.727:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:39:56.76 [11528:3988:0222/143956.768:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:39:56.81 [11528:3988:0222/143956.811:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:42:04.39 [11528:2984:0222/144204.399:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 22, 2022 14:42:08.93 [11528:11356:0222/144208.931:ERROR:device_event_log_impl.cc(214)] [14:42:08.930] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 22, 2022 14:45:50.54 [11528:11356:0222/144550.544:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:45:50.59 [11528:11356:0222/144550.586:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:45:50.62 [11528:11356:0222/144550.627:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:45:50.66 [11528:11356:0222/144550.668:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:45:52.13 [11528:11356:0222/144552.129:ERROR:sharing_service.cc(252)] Device un-registration failed with fatal error
+Feb 22, 2022 14:46:06.30 [11528:9876:0222/144606.309:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:47:30.69 [11528:9876:0222/144730.695:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:50:30.27 [12116:11620:0222/145030.275:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:50:30.27 [12116:6928:0222/145030.279:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:50:30.40 [12116:11620:0222/145030.406:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:50:30.49 [12116:11620:0222/145030.494:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:50:31.05 [12116:6928:0222/145031.052:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:50:31.10 [12116:6928:0222/145031.109:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:50:35.41 [12116:6928:0222/145035.413:ERROR:device_event_log_impl.cc(214)] [14:50:35.412] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2022 14:50:35.41 [12116:6928:0222/145035.416:ERROR:device_event_log_impl.cc(214)] [14:50:35.415] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2022 14:50:35.41 [12116:11984:0222/145035.417:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 22, 2022 14:50:35.41 [12116:11984:0222/145035.417:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 22, 2022 14:50:35.41 [12116:11984:0222/145035.417:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 22, 2022 14:50:35.41 [12116:11984:0222/145035.419:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 22, 2022 14:50:38.40 [12116:4284:0222/145038.408:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:50:38.47 [12116:4284:0222/145038.479:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:50:38.53 [12116:4284:0222/145038.533:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:50:38.60 [12116:4284:0222/145038.603:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:50:38.68 [12116:4284:0222/145038.681:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:51:00.14 [12116:4328:0222/145100.145:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:51:00.18 [12116:4328:0222/145100.186:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:51:00.22 [12116:4328:0222/145100.227:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:51:00.27 [12116:4328:0222/145100.270:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:51:00.31 [12116:4328:0222/145100.312:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:51:00.35 [12116:4328:0222/145100.353:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:51:00.39 [12116:4328:0222/145100.395:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:51:00.44 [12116:4328:0222/145100.440:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:56:58.80 [1144:8848:0222/145658.803:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:56:58.80 [1144:7484:0222/145658.804:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:56:58.89 [1144:7484:0222/145658.892:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:56:58.98 [1144:7484:0222/145658.989:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:57:03.91 [1144:8812:0222/145703.916:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 22, 2022 14:57:03.91 [1144:8812:0222/145703.916:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 22, 2022 14:57:03.91 [1144:8812:0222/145703.916:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 22, 2022 14:57:03.91 [1144:8812:0222/145703.918:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 22, 2022 14:57:04.03 [1144:8848:0222/145704.031:ERROR:device_event_log_impl.cc(214)] [14:57:04.032] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2022 14:57:04.03 [1144:8848:0222/145704.034:ERROR:device_event_log_impl.cc(214)] [14:57:04.035] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2022 14:57:06.90 [1144:7484:0222/145706.903:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:57:06.94 [1144:7484:0222/145706.945:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:57:06.98 [1144:7484:0222/145706.988:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:57:07.03 [1144:7484:0222/145707.035:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:57:07.07 [1144:7484:0222/145707.077:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:57:28.64 [1144:5532:0222/145728.648:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:57:28.69 [1144:5532:0222/145728.691:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:57:28.73 [1144:5532:0222/145728.732:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:57:28.77 [1144:5532:0222/145728.773:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:57:28.81 [1144:5532:0222/145728.814:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:57:28.85 [1144:5532:0222/145728.855:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:57:28.89 [1144:5532:0222/145728.896:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 14:57:28.93 [1144:5532:0222/145728.937:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 15:02:20.56 [1144:444:0222/150220.567:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 15:21:11.84 [1144:8848:0222/152111.845:ERROR:device_event_log_impl.cc(214)] [15:21:11.845] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 22, 2022 16:32:49.02 [1144:8848:0222/163249.023:ERROR:device_event_log_impl.cc(214)] [16:32:49.023] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 22, 2022 16:32:49.07 [1144:8848:0222/163249.026:ERROR:device_event_log_impl.cc(214)] [16:32:49.026] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 22, 2022 17:54:00.02 [1144:8848:0222/175400.024:ERROR:device_event_log_impl.cc(214)] [17:54:00.024] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 22, 2022 17:54:00.42 [1144:8848:0222/175400.041:ERROR:device_event_log_impl.cc(214)] [17:54:00.041] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 22, 2022 18:10:35.57 [1144:8848:0222/181035.578:ERROR:device_event_log_impl.cc(214)] [18:10:35.578] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 22, 2022 18:10:35.58 [1144:8848:0222/181035.584:ERROR:device_event_log_impl.cc(214)] [18:10:35.584] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 22, 2022 18:12:13.98 [1144:8848:0222/181213.981:ERROR:device_event_log_impl.cc(214)] [18:12:13.981] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 22, 2022 18:12:13.98 [1144:8848:0222/181213.988:ERROR:device_event_log_impl.cc(214)] [18:12:13.988] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+
+Feb 22, 2022 23:15:29.39 NEW SESSION
+Feb 22, 2022 23:15:29.39 [10624:8228:0222/231529.364:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 23:15:29.73 [10624:12220:0222/231529.364:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 23:15:29.73 [10624:12220:0222/231529.458:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 23:15:29.74 [10624:12220:0222/231529.500:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 23:15:38.24 [10624:9284:0222/231538.244:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 23:15:38.30 [10624:9284:0222/231538.306:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 23:15:38.37 [10624:9284:0222/231538.373:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 23:15:38.43 [10624:9284:0222/231538.437:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 23:15:38.48 [10624:9284:0222/231538.483:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 23:15:40.54 [10624:8228:0222/231540.544:ERROR:device_event_log_impl.cc(214)] [23:15:40.544] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2022 23:15:40.74 [10624:11228:0222/231540.739:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 22, 2022 23:15:40.74 [10624:11228:0222/231540.739:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 22, 2022 23:15:40.74 [10624:11228:0222/231540.739:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 22, 2022 23:15:40.74 [10624:11228:0222/231540.741:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 22, 2022 23:15:56.43 [10624:5716:0222/231556.430:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 23:15:56.48 [10624:5716:0222/231556.488:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 23:15:56.53 [10624:5716:0222/231556.531:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 23:15:56.58 [10624:5716:0222/231556.584:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 23:15:56.64 [10624:5716:0222/231556.641:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 23:15:57.25 [10624:5716:0222/231557.249:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 23:15:57.29 [10624:5716:0222/231557.292:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 23:15:57.33 [10624:5716:0222/231557.335:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 22, 2022 23:34:44.18 [10624:8228:0222/233444.182:ERROR:device_event_log_impl.cc(214)] [23:34:44.181] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 23, 2022 24:24:17.46 [10624:8228:0223/002417.097:ERROR:device_event_log_impl.cc(214)] [00:24:17.097] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 23, 2022 24:24:17.91 [10624:8228:0223/002417.102:ERROR:device_event_log_impl.cc(214)] [00:24:17.101] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+
+Feb 23, 2022 15:55:51.99 NEW SESSION
+Feb 23, 2022 15:55:51.99 [6388:2968:0223/155551.906:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 23, 2022 15:55:52.15 [6388:3024:0223/155551.399:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 23, 2022 15:55:52.15 [6388:2968:0223/155552.110:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 23, 2022 15:55:52.16 [6388:2968:0223/155552.160:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 23, 2022 15:56:00.14 [6388:6588:0223/155600.147:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 23, 2022 15:56:00.22 [6388:6588:0223/155600.223:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 23, 2022 15:56:00.29 [6388:6588:0223/155600.295:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 23, 2022 15:56:00.38 [6388:6588:0223/155600.379:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 23, 2022 15:56:00.43 [6388:6588:0223/155600.431:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 23, 2022 15:56:02.53 [6388:3024:0223/155602.533:ERROR:device_event_log_impl.cc(214)] [15:56:02.534] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 23, 2022 15:56:02.53 [6388:3024:0223/155602.537:ERROR:device_event_log_impl.cc(214)] [15:56:02.537] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 23, 2022 15:56:02.62 [6388:2096:0223/155602.622:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 23, 2022 15:56:02.62 [6388:2096:0223/155602.622:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 23, 2022 15:56:02.62 [6388:2096:0223/155602.622:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 23, 2022 15:56:02.62 [6388:2096:0223/155602.623:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 23, 2022 15:56:21.27 [6388:6948:0223/155621.274:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 23, 2022 15:56:21.32 [6388:6948:0223/155621.322:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 23, 2022 15:56:21.36 [6388:6948:0223/155621.364:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 23, 2022 15:56:21.40 [6388:6948:0223/155621.407:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 23, 2022 15:56:21.44 [6388:6948:0223/155621.449:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 23, 2022 15:56:21.85 [6388:6948:0223/155621.857:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 23, 2022 15:56:21.90 [6388:6948:0223/155621.903:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 23, 2022 15:56:21.94 [6388:6948:0223/155621.948:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 23, 2022 16:36:15.01 [6388:3024:0223/163615.014:ERROR:device_event_log_impl.cc(214)] [16:36:15.014] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 23, 2022 16:36:15.01 [6388:3024:0223/163615.018:ERROR:device_event_log_impl.cc(214)] [16:36:15.018] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 23, 2022 16:36:26.99 [6388:3024:0223/163626.993:ERROR:device_event_log_impl.cc(214)] [16:36:26.993] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 23, 2022 16:36:26.99 [6388:3024:0223/163626.998:ERROR:device_event_log_impl.cc(214)] [16:36:26.998] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 23, 2022 16:56:18.74 [6388:5736:0223/165618.739:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 23, 2022 16:57:45.73 [6388:5736:0223/165745.732:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 23, 2022 16:59:32.47 [6388:5736:0223/165932.478:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 23, 2022 17:01:40.92 [6388:5736:0223/170140.928:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 23, 2022 17:04:35.24 [6388:5200:0223/170435.244:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 23, 2022 17:08:34.55 [6388:5200:0223/170834.556:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 23, 2022 17:12:17.07 [6388:2908:0223/171217.076:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -100
+Feb 23, 2022 17:13:00.44 [6388:2908:0223/171300.441:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+Feb 23, 2022 17:13:59.12 [6388:2908:0223/171359.129:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 23, 2022 17:14:27.81 [6388:5200:0223/171427.815:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 23, 2022 17:15:43.78 [6388:2908:0223/171543.782:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 23, 2022 17:15:43.83 [6388:3024:0223/171543.833:ERROR:device_event_log_impl.cc(214)] [17:15:43.833] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 23, 2022 17:15:49.81 [6388:2908:0223/171549.814:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 23, 2022 17:15:49.81 [6388:6260:0223/171549.815:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 23, 2022 17:16:01.74 [6388:2908:0223/171601.742:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 23, 2022 17:16:01.74 [6388:5200:0223/171601.743:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 23, 2022 17:16:01.74 [6388:2908:0223/171601.748:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 23, 2022 17:16:01.75 [6388:5200:0223/171601.755:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 23, 2022 17:16:03.80 [6388:2908:0223/171603.808:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 23, 2022 17:23:00.39 [6388:3560:0223/172300.398:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 23, 2022 17:26:03.81 [6388:2908:0223/172603.811:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 23, 2022 17:33:00.40 [6388:3560:0223/173300.403:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 23, 2022 17:36:03.81 [6388:2908:0223/173603.814:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 23, 2022 17:43:00.41 [6388:5344:0223/174300.410:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 23, 2022 17:46:03.81 [6388:2908:0223/174603.817:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 23, 2022 17:53:00.41 [6388:5344:0223/175300.415:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 23, 2022 17:56:03.81 [6388:2908:0223/175603.819:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 23, 2022 18:03:00.42 [6388:5624:0223/180300.420:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 23, 2022 18:06:03.82 [6388:2908:0223/180603.821:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 23, 2022 18:08:37.29 [6388:2908:0223/180837.292:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 23, 2022 18:08:37.29 [6388:3560:0223/180837.292:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 23, 2022 18:08:55.96 [6388:2908:0223/180855.966:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 23, 2022 18:08:55.96 [6388:5624:0223/180855.967:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 23, 2022 18:10:18.37 [6388:2908:0223/181018.378:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 23, 2022 18:10:18.38 [6388:5624:0223/181018.380:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 23, 2022 18:13:12.70 [6388:5624:0223/181312.709:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Feb 24, 2022 12:18:33.84 NEW SESSION
+Feb 24, 2022 12:18:33.85 [6292:6652:0224/121833.847:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 12:18:34.23 [6292:5908:0224/121833.847:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 12:18:34.23 [6292:5908:0224/121833.923:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 12:18:34.23 [6292:5908:0224/121833.965:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 12:18:39.36 [6292:4180:0224/121839.365:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 24, 2022 12:18:39.36 [6292:4180:0224/121839.365:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 24, 2022 12:18:39.36 [6292:4180:0224/121839.365:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 24, 2022 12:18:39.36 [6292:4180:0224/121839.368:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 24, 2022 12:18:39.48 [6292:6652:0224/121839.483:ERROR:device_event_log_impl.cc(214)] [12:18:39.484] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 24, 2022 12:18:41.95 [6292:6876:0224/121841.953:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 12:18:42.02 [6292:6876:0224/121842.027:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 12:18:42.10 [6292:6876:0224/121842.101:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 12:18:42.17 [6292:6876:0224/121842.179:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 12:18:42.26 [6292:6876:0224/121842.264:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 12:19:03.82 [6292:6876:0224/121903.819:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 12:19:03.86 [6292:6876:0224/121903.869:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 12:19:03.92 [6292:6876:0224/121903.925:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 12:19:03.98 [6292:6876:0224/121903.982:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 12:19:04.05 [6292:6876:0224/121904.055:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 12:19:04.12 [6292:6876:0224/121904.129:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 12:19:04.18 [6292:6876:0224/121904.185:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 12:19:04.25 [6292:6876:0224/121904.256:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 12:34:58.54 [6292:6652:0224/123458.541:ERROR:device_event_log_impl.cc(214)] [12:34:58.541] FIDO: webauthn_api.cc:54 Windows WebAuthn API failed to load
+Feb 24, 2022 12:42:24.49 [6292:6652:0224/124224.490:ERROR:device_event_log_impl.cc(214)] [12:42:24.490] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 24, 2022 12:42:24.49 [6292:6652:0224/124224.494:ERROR:device_event_log_impl.cc(214)] [12:42:24.494] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+
+Feb 24, 2022 15:21:34.74 NEW SESSION
+Feb 24, 2022 15:21:34.74 [4860:4644:0224/152134.739:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 15:21:35.01 [4860:6764:0224/152134.803:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 15:21:35.01 [4860:6764:0224/152134.845:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 15:21:35.01 [4860:6764:0224/152134.889:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 15:21:41.69 [4860:7000:0224/152141.694:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 24, 2022 15:21:41.70 [4860:7000:0224/152141.709:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 24, 2022 15:21:41.71 [4860:7000:0224/152141.710:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 24, 2022 15:21:41.71 [4860:7000:0224/152141.711:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 24, 2022 15:21:41.80 [4860:4644:0224/152141.802:ERROR:device_event_log_impl.cc(214)] [15:21:41.802] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 24, 2022 15:21:42.88 [4860:4760:0224/152142.887:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 15:21:42.94 [4860:4760:0224/152142.944:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 15:21:42.99 [4860:4760:0224/152142.999:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 15:21:43.05 [4860:4760:0224/152143.051:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 15:21:43.09 [4860:4760:0224/152143.097:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 15:22:04.68 [4860:4760:0224/152204.688:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 15:22:04.73 [4860:4760:0224/152204.731:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 15:22:04.77 [4860:4760:0224/152204.772:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 15:22:04.81 [4860:4760:0224/152204.819:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 15:22:04.86 [4860:4760:0224/152204.860:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 15:22:04.90 [4860:4760:0224/152204.902:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 15:22:04.94 [4860:4760:0224/152204.943:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 15:22:04.98 [4860:4760:0224/152204.984:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 24, 2022 15:30:04.74 [4860:4644:0224/153004.748:ERROR:device_event_log_impl.cc(214)] [15:30:04.748] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 24, 2022 15:30:04.75 [4860:4644:0224/153004.752:ERROR:device_event_log_impl.cc(214)] [15:30:04.752] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+
+Feb 25, 2022 12:52:20.32 NEW SESSION
+Feb 25, 2022 12:52:20.32 [820:2572:0225/125220.324:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 25, 2022 12:52:20.68 [820:3168:0225/125220.682:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 25, 2022 12:52:20.73 [820:3168:0225/125220.730:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 25, 2022 12:52:20.80 [820:3168:0225/125220.802:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 25, 2022 12:52:25.82 [820:496:0225/125225.829:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 25, 2022 12:52:25.82 [820:496:0225/125225.829:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 25, 2022 12:52:25.82 [820:496:0225/125225.829:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 25, 2022 12:52:25.82 [820:496:0225/125225.829:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 25, 2022 12:52:25.94 [820:2572:0225/125225.943:ERROR:device_event_log_impl.cc(214)] [12:52:25.949] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 25, 2022 12:52:28.50 [820:2888:0225/125228.509:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 25, 2022 12:52:28.55 [820:2888:0225/125228.556:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 25, 2022 12:52:28.60 [820:2888:0225/125228.602:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 25, 2022 12:52:28.64 [820:2888:0225/125228.649:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 25, 2022 12:52:28.68 [820:2888:0225/125228.681:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 25, 2022 12:52:50.27 [820:2536:0225/125250.274:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 25, 2022 12:52:50.32 [820:2536:0225/125250.320:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 25, 2022 12:52:50.35 [820:2536:0225/125250.352:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 25, 2022 12:52:50.39 [820:2536:0225/125250.399:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 25, 2022 12:52:50.44 [820:2536:0225/125250.445:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 25, 2022 12:52:50.47 [820:2536:0225/125250.477:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 25, 2022 12:52:50.52 [820:2536:0225/125250.524:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+Feb 25, 2022 12:52:50.58 [820:2536:0225/125250.580:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
